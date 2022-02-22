@@ -1,11 +1,11 @@
 import random
 import time
-sahbatur = 1
-gulbatur = 2
-ayso = 3
-devirhan = 4
-yazihan = 5
-kasemumkara = 6
+#Şahbatur
+#Gülbatur
+#Ayşo
+#Devirhan
+#Yazıhan
+#Kasemumkara
 while 1:
     print("Yarış Başlamak Üzere")
     time.sleep(5)
