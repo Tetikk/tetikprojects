@@ -655,3 +655,5 @@ while 1:
                 print("Yazıhan Kazandı\n")
             elif kazanansayi == 6.0:
                 print("Kasemumkara Kazandı\n")
+
+#MUHAMMED ALİ TETİK

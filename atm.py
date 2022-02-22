@@ -92,3 +92,5 @@ while 1:
                 print(odenecekkredi,("TL Kredi borcunuz bulunmakta.\n"))
         else:
             print("Şifre Yanlış Lütfen Tekrar Deneyiniz.\n")
+
+#MUHAMMED ALİ TETİK
