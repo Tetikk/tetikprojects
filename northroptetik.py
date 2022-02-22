@@ -49,14 +49,17 @@ while 1:
             hp = hp-nthasar
             print(nthasar,"Hasar Aldınız")
             print(hp,"Canınız Kaldı\n")
-        else:
-            time.sleep(5)
+        elif secenek1 == 3:
             nthasar = random.uniform(10, 200)
             nthasar = round(nthasar)
             koruma = random.uniform(10, 100)
             koruma = round(koruma)
             nthasar = nthasar-nthasar*koruma/100
+            nthasar = round(nthasar)
+            hp = hp - nthasar
             print(nthasar,"Hasar Aldınız")
             print(hp,"Canınız Kaldı\n")
+        else:
+            print("Lütfen 1 İle 3 Arasında Sayı Giriniz")
 
 #MUHAMMED ALİ TETİK
