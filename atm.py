@@ -11,7 +11,7 @@ while 1:
         sifreonay = int(input("Şifreyi Tekrarlayınız\t:"))
     else:
         giris = int(input("Lütfen Şifrenizi Giriniz\t:"))
-        print("Giriş Yapılıyor")
+        print("Giriş Yapılıyor\n")
         time.sleep(2)
         if giris == sifre:
             print("Para Çekmek İçin|1\nPara Yatırmak İçin|2\nBakiye Öğrenmek İçin|3\nKredi Çekmek İçin|4\nKredi Borcu Ödemek İçin|5\nKredi Borcu Sorgulamak İçin|6\nÇıkış Yapmak İçin|0\n")
