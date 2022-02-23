@@ -62,4 +62,4 @@ while 1:
         else:
             print("Lütfen 1 İle 3 Arasında Sayı Giriniz")
 
-#MUHAMMED ALİ TETİK
+#MADE IT MUHAMMED ALİ TETİK
