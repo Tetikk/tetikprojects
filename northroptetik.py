@@ -60,6 +60,6 @@ while 1:
             print(nthasar,"Hasar Aldınız")
             print(hp,"Canınız Kaldı\n")
         else:
-            print("Lütfen 1 İle 3 Arasında Sayı Giriniz")
+            print("Lütfen 1 İle 3 Arasında Sayı Giriniz\n")
 
-#MADE IT MUHAMMED ALİ TETİK
+#MUHAMMED ALİ TETİK

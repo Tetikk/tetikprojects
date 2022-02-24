@@ -93,4 +93,4 @@ while 1:
         else:
             print("Şifre Yanlış Lütfen Tekrar Deneyiniz.\n")
 
-#MADE IT MUHAMMED ALİ TETİK
+#MUHAMMED ALİ TETİK

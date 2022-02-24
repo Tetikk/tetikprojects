@@ -56,4 +56,4 @@ while 1:
     else:
         time.sleep(1)
 
-#MADE IT MUHAMMED ALİ TETİK
+#MUHAMMED ALİ TETİK

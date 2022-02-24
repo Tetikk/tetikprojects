@@ -103,3 +103,5 @@ while 1:
                     para = para+kznpr       
     else:
         time.sleep(1)    
+
+#MUHAMMED ALİ TETİK
