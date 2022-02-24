@@ -1,1 +1,1 @@
-# TetikProjects
+# TetikPythonProjects
