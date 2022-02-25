@@ -10,7 +10,7 @@ baslat = 0
 tursayi = 0
 while 1:
     if baslat == 0:
-        baslat = int(input("Yarışı Başlamtak İçin '1' Yazınız\t:"))
+        baslat = int(input("Yarışı Başlatmak İçin '1' Yazınız\t:"))
     if baslat == 1:
         if tursayi<5:
             if tursayi==0:

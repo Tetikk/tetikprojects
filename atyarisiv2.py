@@ -18,11 +18,11 @@ while 1:
         print()
         print(para,"TL Bakiyeniz Bulunmakta")
         bahis = int(input("Bahis Yapacağınız Miktarı Giriniz\t:"))
-        para = para-bahis
         if bahis>para:
             print("Bakiyeyi Aşmayınız.\n")
         else:
-            baslat = int(input("Yarışı Başlamtak İçin '1' Yazınız\t:"))
+            para = para-bahis
+            baslat = int(input("Yarışı Başlatmak İçin '1' Yazınız\t:"))
     if baslat == 1:
         if tursayi<5:
             if tursayi==0:
